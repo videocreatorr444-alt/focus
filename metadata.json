@@ -1,0 +1,9 @@
+
+{
+  "name": "FocusFlow - Smart AI Productivity Suite",
+  "description": "A high-performance task management application featuring AI-powered natural language processing for quick capture, voice commands, location-based reminders, and a sleek minimalist design.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
